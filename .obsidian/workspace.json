@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Data preparation.md",
+                "file": "docs/Data preparation for Power BI report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data preparation"
+              "title": "Data preparation for Power BI report"
             }
           }
         ],
@@ -202,20 +202,24 @@
   },
   "active": "7bc0724e5d80df0b",
   "lastOpenFiles": [
+    "reports/one-year report/Holdfast Bay  Power BI Report 2025-2026.pdf",
+    "reports/one-year report/Holdfast Bay  Power BI Report 2025-2026.pbix",
+    "reports/one-year report/Holdfast Bay  Power BI Report 2025-2026 image_700.png",
+    "reports/one-year report/Holdfast Bay  Power BI Report 2025-2026 image.png",
+    "reports/one-year report",
+    "reports/one-year reports/Holdfast Bay  Power BI Report 2025-2026.pdf",
+    "reports/one-year reports/Holdfast Bay  Power BI Report 2025-2026.pbix",
+    "reports/one-year reports/Holdfast Bay  Power BI Report 2025-2026 image_700.png",
+    "reports/one-year reports/Holdfast Bay  Power BI Report 2025-2026 image.png",
+    "reports/one-year reports",
+    "data/final data/Power BI one-year report/Power BI - Holdfast Bay Council 2025-2026 Landing Page.xlsx",
+    "data/final data/Power BI one-year report",
     "data/final data/Power BI One-Year Report/Power BI - Holdfast Bay Council 2025-2026 Landing Page.xlsx",
     "data/final data/Power BI One-Year Report",
     "data/final data/Power BI Annual Report/Power BI - Holdfast Bay Council 2025-2026 Landing Page.xlsx",
-    "data/final data/Power BI Annual Report",
-    "data/final data/Power BI one year report/Power BI - Holdfast Bay Council 2025-2026 Landing Page.xlsx",
-    "data/final data/Power BI one year report",
-    "data/final data/untitled folder",
-    "reports/one year reports/Holdfast Bay  Power BI Report 2025-2026.pdf",
-    "reports/one year reports/Holdfast Bay  Power BI Report 2025-2026.pbix",
     "reports/one year reports/Holdfast Bay  Power BI Report 2025-2026 image.png",
     "reports/one year reports/Holdfast Bay  Power BI Report 2025-2026 image_700.png",
-    "reports/one year reports",
-    "reports/untitled folder",
-    "docs/Data preparation.md",
+    "docs/Data preparation for Power BI report.md",
     "README.md"
   ]
 }
